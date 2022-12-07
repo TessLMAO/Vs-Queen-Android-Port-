@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"palace raid",
+			"queen",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"killer queen",
+			"queen",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "GET BANANA",
+	"weekName": "queen",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
