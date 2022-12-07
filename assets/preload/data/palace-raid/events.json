@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "queenBG",
+		"player1": "bf",
+		"player2": "queen",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HideHud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7578.94736842105,
+				[
+					[
+						"ShowHud",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "palace-raid"
+	}
+}
