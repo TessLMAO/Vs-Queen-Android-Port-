@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vulcan.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animated fountain0000" x="0" y="0" width="893" height="1053" frameX="-2" frameY="0" frameWidth="901" frameHeight="1053"/>
+</TextureAtlas>
