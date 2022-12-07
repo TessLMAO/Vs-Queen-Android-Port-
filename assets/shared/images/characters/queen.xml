@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="queen.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="queen down0000" x="0" y="0" width="592" height="698" frameX="-2" frameY="0" frameWidth="594" frameHeight="699"/>
+	<SubTexture name="queen down0001" x="592" y="0" width="586" height="695" frameX="0" frameY="-4" frameWidth="594" frameHeight="699"/>
+	<SubTexture name="queen down0002" x="1178" y="0" width="583" height="695" frameX="-2" frameY="-4" frameWidth="594" frameHeight="699"/>
+	<SubTexture name="queen down0003" x="1178" y="0" width="583" height="695" frameX="-3" frameY="-5" frameWidth="594" frameHeight="699"/>
+	<SubTexture name="queen down0004" x="1178" y="0" width="583" height="695" frameX="-4" frameY="-5" frameWidth="594" frameHeight="699"/>
+	<SubTexture name="queen down0005" x="1178" y="0" width="583" height="695" frameX="-3" frameY="-4" frameWidth="594" frameHeight="699"/>
+	<SubTexture name="queen idle0000" x="1761" y="0" width="543" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0001" x="0" y="700" width="543" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0002" x="543" y="700" width="543" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0003" x="1086" y="700" width="542" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0004" x="1628" y="700" width="542" height="710" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0005" x="1628" y="700" width="542" height="710" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0006" x="1628" y="700" width="542" height="710" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0007" x="0" y="1410" width="542" height="710" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0008" x="0" y="1410" width="542" height="710" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0009" x="0" y="1410" width="542" height="710" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0010" x="542" y="1410" width="542" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0011" x="542" y="1410" width="542" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0012" x="542" y="1410" width="542" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0013" x="542" y="1410" width="542" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen idle0014" x="542" y="1410" width="542" height="700" frameX="0" frameY="0" frameWidth="543" frameHeight="710"/>
+	<SubTexture name="queen left0000" x="1084" y="1410" width="527" height="701" frameX="0" frameY="-1" frameWidth="527" frameHeight="702"/>
+	<SubTexture name="queen left0001" x="2170" y="700" width="522" height="701" frameX="-1" frameY="0" frameWidth="527" frameHeight="702"/>
+	<SubTexture name="queen left0002" x="2170" y="1401" width="521" height="701" frameX="-1" frameY="0" frameWidth="527" frameHeight="702"/>
+	<SubTexture name="queen left0003" x="2170" y="1401" width="521" height="700" frameX="0" frameY="-1" frameWidth="527" frameHeight="702"/>
+	<SubTexture name="queen left0004" x="2170" y="1401" width="521" height="700" frameX="0" frameY="-1" frameWidth="527" frameHeight="702"/>
+	<SubTexture name="queen left0005" x="2170" y="1401" width="521" height="700" frameX="-1" frameY="0" frameWidth="527" frameHeight="702"/>
+	<SubTexture name="queen right0000" x="1611" y="1410" width="538" height="701" frameX="0" frameY="0" frameWidth="548" frameHeight="701"/>
+	<SubTexture name="queen right0001" x="2304" y="0" width="529" height="700" frameX="-16" frameY="0" frameWidth="548" frameHeight="701"/>
+	<SubTexture name="queen right0002" x="2692" y="700" width="530" height="700" frameX="-16" frameY="0" frameWidth="548" frameHeight="701"/>
+	<SubTexture name="queen right0003" x="2692" y="700" width="530" height="700" frameX="-16" frameY="0" frameWidth="548" frameHeight="701"/>
+	<SubTexture name="queen right0004" x="2692" y="700" width="530" height="700" frameX="-16" frameY="0" frameWidth="548" frameHeight="701"/>
+	<SubTexture name="queen right0005" x="2692" y="700" width="530" height="700" frameX="-16" frameY="0" frameWidth="548" frameHeight="701"/>
+	<SubTexture name="queen up0000" x="2149" y="2102" width="538" height="710" frameX="0" frameY="-5" frameWidth="539" frameHeight="715"/>
+	<SubTexture name="queen up0001" x="3222" y="0" width="538" height="710" frameX="-1" frameY="0" frameWidth="539" frameHeight="715"/>
+	<SubTexture name="queen up0002" x="3222" y="710" width="537" height="710" frameX="-1" frameY="0" frameWidth="539" frameHeight="715"/>
+	<SubTexture name="queen up0003" x="3222" y="710" width="537" height="710" frameX="-1" frameY="0" frameWidth="539" frameHeight="715"/>
+	<SubTexture name="queen up0004" x="3222" y="710" width="537" height="710" frameX="-1" frameY="0" frameWidth="539" frameHeight="715"/>
+	<SubTexture name="queen up0005" x="3222" y="710" width="537" height="710" frameX="-1" frameY="0" frameWidth="539" frameHeight="715"/>
+</TextureAtlas>
